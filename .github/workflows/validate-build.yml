@@ -2,7 +2,7 @@ name: Validate Images
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ excludelist-1-test ]
 
 permissions: read-all
 

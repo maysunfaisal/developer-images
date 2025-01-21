@@ -2,7 +2,7 @@ name: Push Images
 
 on:
   push:
-    branches: [ main ]
+    branches: [ excludelist-1-test ]
 
 permissions: read-all
 
